@@ -1,5 +1,5 @@
 # OpenResource
-分类的开源库整理
+开源库分类整理
 
 ## 图片加载库
 1. [Glide](https://github.com/bumptech/glide)  
@@ -22,17 +22,20 @@
 
 ## Rx全家桶
 
-1. [RxDocs](https://github.com/mcxiaoke/RxDocs)  Rx和RxJava文档中文翻译项目
-2. [RxJava](https://github.com/ReactiveX/RxJava)
-3. [RxAndroid](https://github.com/ReactiveX/RxAndroid)
-4. [retrofit2-rxjava2-adapter](https://github.com/JakeWharton/retrofit2-rxjava2-adapter)  Rretrofit的RxJava支持
-5. [RxBinding](https://github.com/JakeWharton/RxBinding)
-6. [RxLifecycle](https://github.com/trello/RxLifecycle)
-7. [RxBus](https://github.com/AndroidKnife/RxBus)  类似与EventBus使用。较小众
+1. [RxJava](https://github.com/ReactiveX/RxJava) / [RxJava2.0的不同之处](https://github.com/ReactiveX/RxJava/wiki/What%27s-different-in-2.0)
+2. [RxAndroid](https://github.com/ReactiveX/RxAndroid)
+3. [retrofit2-rxjava2-adapter](https://github.com/JakeWharton/retrofit2-rxjava2-adapter)  Rretrofit的RxJava支持
+4. [RxBinding](https://github.com/JakeWharton/RxBinding)
+5. [RxLifecycle](https://github.com/trello/RxLifecycle)
+6. [RxBus](https://github.com/AndroidKnife/RxBus)  类似与EventBus使用，较小众。可使用RxJava思想自行封装一个
+7. [RxDocs](https://github.com/mcxiaoke/RxDocs)  Rx和RxJava文档中文翻译项目
+8. [RxJavaSamples](https://github.com/THEONE10211024/RxJavaSamples)  RxJava使用案例合集
+9. [RxJava系列文章](http://blog.csdn.net/johnny901114/article/details/51524470)  非常不错的CSDN专栏(RxJava 1.x)
 
-## 万能布局适配
+## 布局
 
-1. [AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout)
+1. [AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout)  可以直接在布局文件中使用设计图给出的px单位数据，自动适配布局
+2. [vlayout](https://github.com/alibaba/vlayout)  阿里的一个针对RecyclerView的LayoutManager扩展,，主要提供一整套布局方案和布局间的组件复用的问题
 
 ## SQLite数据库
 1. [greenDAO](https://github.com/greenrobot/greenDAO)  
@@ -55,7 +58,7 @@
 ## TabLayout
 
 1. [ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator)  
-2. [FlycoTabLayout](https://github.com/H07000223/FlycoTabLayout/blob/master/README_CN.md)  
+2. [FlycoTabLayout](https://github.com/H07000223/FlycoTabLayout/blob/master/README_CN.md)  ViewPager或Fragment切换指示器
 
 ## 图片轮播
 
