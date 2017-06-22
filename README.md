@@ -30,7 +30,8 @@
 6. [RxBus](https://github.com/AndroidKnife/RxBus)  类似与EventBus使用，较小众。可使用RxJava思想自行封装一个
 7. [RxDocs](https://github.com/mcxiaoke/RxDocs)  Rx和RxJava文档中文翻译项目
 8. [RxJavaSamples](https://github.com/THEONE10211024/RxJavaSamples)  RxJava使用案例合集
-9. [RxJava系列文章](http://blog.csdn.net/johnny901114/article/details/51524470)  非常不错的CSDN专栏(RxJava 1.x)
+9. [RxJava操作符系列文章](http://blog.csdn.net/johnny901114/article/details/51524470)  非常不错的CSDN专栏(RxJava 1.x)
+10. [RxJava基础到原理系列文章](http://www.jianshu.com/p/6fd8640046f1)  非常不错的简书专栏(RxJava 1.x  >>> 2.x)
 
 ## 布局
 
@@ -44,7 +45,8 @@
 
 ## 多媒体开发框架
 
-1.[Vitamio](https://github.com/yixia/VitamioBundle) 全能多媒体开发框架，全面支持硬件解码与 GPU 渲染
+1. [Vitamio](https://github.com/yixia/VitamioBundle) 全能多媒体开发框架，全面支持硬件解码与 GPU 渲染
+2. [ijkplayer](https://github.com/Bilibili/ijkplayer) B站出品
 
 ## 下拉刷新/上拉加载
 1. [BeautifulRefreshLayout](https://github.com/android-cjj/BeautifulRefreshLayout)  各种下拉刷新的项目汇总
@@ -68,6 +70,12 @@
 
 1. [CircleImageView](https://github.com/hdodenhof/CircleImageView)  圆形图片展示
 2. [PhotoView](https://github.com/chrisbanes/PhotoView)  可缩放图片展示
+
+## 二维码扫描
+
+1. [zxing](https://github.com/zxing/zxing)  多种方案二维码扫码解决方案的核心引用库(Java实现，还有一个C/C++实现的zbar解码速度快一点)
+2. [barcodescanner](https://github.com/dm77/barcodescanner)  基于zxing或zbar简化，UI调整稍麻烦，需改造jar包(貌似只能扫描，没有生成功能？)
+3. [BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android)  基于zxing或zbar简化，参考barcodescanner实现，简单易用，便于定制开发，但经测试识别和生成效率略慢(生成二维码、扫描二维码、识别图片等)
 
 ## 购物App相关
 
