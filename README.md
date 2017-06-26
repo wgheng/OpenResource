@@ -32,13 +32,19 @@
 8. [RxJavaSamples](https://github.com/THEONE10211024/RxJavaSamples)  RxJava使用案例合集
 9. [RxJava操作符系列文章](http://blog.csdn.net/johnny901114/article/details/51524470)  非常不错的CSDN专栏(RxJava 1.x)
 10. [RxJava基础到原理系列文章](http://www.jianshu.com/p/6fd8640046f1)  非常不错的简书专栏(RxJava 1.x  >>> 2.x)
+11. [RxJava2.0系列文章](http://www.jianshu.com/c/299d0a51fdd4) 简书专栏
 
 ## 布局
 
 1. [AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout)  可以直接在布局文件中使用设计图给出的px单位数据，自动适配布局
 2. [vlayout](https://github.com/alibaba/vlayout)  阿里的一个针对RecyclerView的LayoutManager扩展,，主要提供一整套布局方案和布局间的组件复用的问题
 
+## 布局控件
+
+1. [FlowLayout](https://github.com/hongyangAndroid/FlowLayout)  流式布局，支持单选、多选等，适合用于产品标签等
+
 ## SQLite数据库
+
 1. [greenDAO](https://github.com/greenrobot/greenDAO)  
 2. [LitePal](https://github.com/LitePalFramework/LitePal)
 3. [realm-java](https://github.com/realm/realm-java)
@@ -69,7 +75,8 @@
 ## 图片展示
 
 1. [CircleImageView](https://github.com/hdodenhof/CircleImageView)  圆形图片展示
-2. [PhotoView](https://github.com/chrisbanes/PhotoView)  可缩放图片展示
+2. [Glide Transformations](https://github.com/wasabeef/glide-transformations) / [Picasso Transformations](https://github.com/wasabeef/picasso-transformations)  配合Glide或Picasso各种形状的图片展示
+3. [PhotoView](https://github.com/chrisbanes/PhotoView)  可缩放图片展示
 
 ## 二维码扫描
 
