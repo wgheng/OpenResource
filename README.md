@@ -1,4 +1,4 @@
-# OpenResource
+# OpenSource
 开源库分类整理
 
 ## 图片加载库
@@ -54,29 +54,33 @@
 1. [Vitamio](https://github.com/yixia/VitamioBundle) 全能多媒体开发框架，全面支持硬件解码与 GPU 渲染
 2. [ijkplayer](https://github.com/Bilibili/ijkplayer) B站出品
 
-## 下拉刷新/上拉加载
-1. [BeautifulRefreshLayout](https://github.com/android-cjj/BeautifulRefreshLayout)  各种下拉刷新的项目汇总
-2. [android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)
-3. [BGARefreshLayout-Android](https://github.com/bingoogolapple/BGARefreshLayout-Android)  
-4. [SpringView](https://github.com/liaoinstan/SpringView)  
-5. [XRefreshView](https://github.com/huxq17/XRefreshView)
-6. [Android-MaterialRefreshLayout](https://github.com/android-cjj/Android-MaterialRefreshLayout)
+## 图片/视频文件选择器
 
-
-## TabLayout
-
-1. [ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator)  
-2. [FlycoTabLayout](https://github.com/H07000223/FlycoTabLayout/blob/master/README_CN.md)  ViewPager或Fragment切换指示器
-
-## 图片轮播
-
-1. [banner](https://github.com/youth5201314/banner)  VIewPager图片轮播
+1. [RxGalleryFinal](https://github.com/FinalTeam/RxGalleryFinal) 图片/视频文件选择器。其支持多选、单选、拍摄和裁剪，主题可自定义，无强制绑定第三方图片加载器。
 
 ## 图片展示
 
 1. [CircleImageView](https://github.com/hdodenhof/CircleImageView)  圆形图片展示
 2. [Glide Transformations](https://github.com/wasabeef/glide-transformations) / [Picasso Transformations](https://github.com/wasabeef/picasso-transformations)  配合Glide或Picasso各种形状的图片展示
 3. [PhotoView](https://github.com/chrisbanes/PhotoView)  可缩放图片展示
+
+## 图片轮播
+
+1. [banner](https://github.com/youth5201314/banner)  VIewPager图片轮播
+
+## TabLayout
+
+1. [ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator)  
+2. [FlycoTabLayout](https://github.com/H07000223/FlycoTabLayout/blob/master/README_CN.md)  ViewPager或Fragment切换指示器
+
+## 下拉刷新/上拉加载
+
+1. [BeautifulRefreshLayout](https://github.com/android-cjj/BeautifulRefreshLayout)  各种下拉刷新的项目汇总
+2. [android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)
+3. [BGARefreshLayout-Android](https://github.com/bingoogolapple/BGARefreshLayout-Android)  
+4. [SpringView](https://github.com/liaoinstan/SpringView)  
+5. [XRefreshView](https://github.com/huxq17/XRefreshView)
+6. [Android-MaterialRefreshLayout](https://github.com/android-cjj/Android-MaterialRefreshLayout)
 
 ## 二维码扫描
 
