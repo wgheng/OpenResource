@@ -68,7 +68,13 @@
 
 1. [banner](https://github.com/youth5201314/banner)  VIewPager图片轮播
 
-## TabLayout
+
+
+## 图表
+
+1. [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
+
+## TabLayout 
 
 1. [ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator)  
 2. [FlycoTabLayout](https://github.com/H07000223/FlycoTabLayout/blob/master/README_CN.md)  ViewPager或Fragment切换指示器
@@ -91,6 +97,14 @@
 ## 购物App相关
 
 1. [CountdownView](https://github.com/iwgang/CountdownView)  秒杀倒计时
+
+## 热修复框架
+
+1. [AndFix](https://github.com/alibaba/AndFix) 阿里(支付宝)出品
+2. [tinker](https://github.com/Tencent/tinker) 腾讯(微信)出品
+3. [Amigo](https://github.com/eleme/Amigo/blob/master/README_zh.md#amigo) 饿了么出品
+4. [Robust](https://github.com/Meituan-Dianping/Robust) 美团出品
+5. [Sophix](https://www.aliyun.com/product/hotfix) 阿里(手淘)最新推出
 
 ## 架构篇
 
