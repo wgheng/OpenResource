@@ -94,6 +94,11 @@
 2. [barcodescanner](https://github.com/dm77/barcodescanner)  基于zxing或zbar简化，UI调整稍麻烦，需改造jar包(貌似只能扫描，没有生成功能？)
 3. [BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android)  基于zxing或zbar简化，参考barcodescanner实现，简单易用，便于定制开发，但经测试识别和生成效率略慢(生成二维码、扫描二维码、识别图片等)
 
+## 运行时权限检查
+
+1. [RxPermissions](https://github.com/tbruyelle/RxPermissions) RxJava封装权限检查
+2. [PermissionsDispatcher](https://github.com/hotchemi/PermissionsDispatcher) 注解形式请求权限
+
 ## 购物App相关
 
 1. [CountdownView](https://github.com/iwgang/CountdownView)  秒杀倒计时
