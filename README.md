@@ -93,6 +93,12 @@
 1. [zxing](https://github.com/zxing/zxing)  多种方案二维码扫码解决方案的核心引用库(Java实现，还有一个C/C++实现的zbar解码速度快一点)
 2. [barcodescanner](https://github.com/dm77/barcodescanner)  基于zxing或zbar简化，UI调整稍麻烦，需改造jar包(貌似只能扫描，没有生成功能？)
 3. [BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android)  基于zxing或zbar简化，参考barcodescanner实现，简单易用，便于定制开发，但经测试识别和生成效率略慢(生成二维码、扫描二维码、识别图片等)
+4. [zxingSample](https://github.com/WuXiaolong/zxingSample) 对zxing简单抽取实现二维码扫描和生成，图片二维码识别功能
+
+## 第三方控件
+
+1. [开源代码网站](http://www.jcodecraeer.com/plus/list.php?tid=31) 这个链接下是各种第三方控件，可根据类型搜索
+2. [MarqueeView](https://github.com/gongwen/MarqueeViewLibrary)  ItemView滚动效果，实现横向/纵向(可多行)滚动
 
 ## 运行时权限检查
 
