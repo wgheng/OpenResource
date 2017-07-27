@@ -100,6 +100,10 @@
 1. [开源代码网站](http://www.jcodecraeer.com/plus/list.php?tid=31) 这个链接下是各种第三方控件，可根据类型搜索
 2. [MarqueeView](https://github.com/gongwen/MarqueeViewLibrary)  ItemView滚动效果，实现横向/纵向(可多行)滚动
 
+## APP换肤
+
+1. [MultipleTheme](https://github.com/dersoncheng/MultipleTheme)  Android换肤／夜间模式的Android框架，配合theme和换肤控件框架可以做到无缝切换换肤（无需重启应用和当前页面）
+
 ## 运行时权限检查
 
 1. [RxPermissions](https://github.com/tbruyelle/RxPermissions) RxJava封装权限检查
